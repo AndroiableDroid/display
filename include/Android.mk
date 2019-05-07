@@ -13,7 +13,6 @@ LOCAL_COPY_HEADERS            := color_metadata.h \
                                  ../libqdutils/display_config.h \
                                  ../libqservice/QServiceUtils.h \
                                  ../libqservice/IQService.h \
-                                 ../libqservice/IQHDMIClient.h \
                                  ../libqservice/IQClient.h
 
 include $(BUILD_COPY_HEADERS)

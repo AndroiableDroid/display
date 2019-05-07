@@ -11,6 +11,5 @@ cc_library_shared {
         "QService.cpp",
         "IQService.cpp",
         "IQClient.cpp",
-        "IQHDMIClient.cpp",
     ],
 }
